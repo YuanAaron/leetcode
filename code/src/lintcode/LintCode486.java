@@ -2,7 +2,7 @@ package lintcode;
 
 import java.util.*;
 
-public class lintcode486 {
+public class LintCode486 {
 
     public int[] mergeKSortedArrays(int[][] arrays) {
         List<Integer> res = new ArrayList<>();
